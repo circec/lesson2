@@ -33,21 +33,21 @@ main{
     padding: 0.75rem;
 }
 
-.align{
+.parrafo1{
     border-radius: 10px;
     max-width: 80%;
     margin: 20px auto;
     overflow: hidden;
 }
 
-.repetir{
+.parrafo2{
     border-radius: 10px;
     max-width: 80%;
     margin: 20px auto;
     overflow: hidden;
 }
 
-.contra{
+.parrafo3{
     border-radius: 10px;
     max-width: 80%;
     margin: 20px auto;
@@ -59,7 +59,7 @@ main{
     
 }
 
-a{
+.lin{
     align-items: center;
 }
 
