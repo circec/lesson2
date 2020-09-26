@@ -1,1 +1,22 @@
-@media only screen and (min-width: 32.5em){}
+@media only screen and (min-width: 32.5em){
+    h1{
+        /*align-items: center;*/
+        color: whitesmoke;
+        font-family: 'Ranchers', cursive;
+        font-size: 2.5rem;
+        }
+        h2{
+            font-size: 1.5rem;
+            color: whitesmoke;
+        }
+        header, footer{
+            border-radius: 10px;
+        }
+
+        .foto{
+            width: 150px;
+            float: right;
+            box-shadow: -5px -5px 5px lightblue, 2px 2px 5px lightgrey;
+     }
+     
+}
