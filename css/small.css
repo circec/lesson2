@@ -52,16 +52,20 @@ main{
     max-width: 80%;
     margin: 20px auto;
     overflow: hidden;
+    
 }
 
 .foto1, .foto2, .foto3{
     border-style: solid;
+    float: right;
     
 }
 
 .lin{
-    align-items: center;
+    color: rgb(8, 13, 92);
 }
+
+
 
 footer{
     text-align: center;
